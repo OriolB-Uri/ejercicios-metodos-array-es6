@@ -13,3 +13,5 @@ if (edad < 18) {
 console.log(puedesPasar) // false
 
 // PREGUNTA: ¿Por qué no se actualiza correctamente la variable 'puedesPasar'?
+
+// Porque estas declarando la variable dos veces en lugar de crearla y actualizarla. Una vez fuera del if y otra vez dentro

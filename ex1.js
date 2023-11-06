@@ -6,6 +6,7 @@
 /**
  * Escribe la siguiente función como una arrow function. BONUS: Escribe la siguiente funcióm como una arrow function en una sola línea
  */
+actualizarContador = (valor) => valor + 1; 
 
 function actualizarContador(valor) {
     return valor + 1
